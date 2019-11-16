@@ -22,6 +22,8 @@ public class testSwitch {
 			break;
 		}
 		
+		System.out.println("Let's add some stuff");
+		
 	}
 
 }
